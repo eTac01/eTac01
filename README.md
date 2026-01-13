@@ -1,50 +1,44 @@
-# Hi, I’m Chudaraj Kushwaha
+# Hi, I’m Chudaraj Kushwaha 👋
 
-Cybersecurity student and aspiring **SOC Analyst (L1)** with hands-on experience in security monitoring, vulnerability assessment, and malware analysis through internships, labs, and projects. I am focused on building strong fundamentals in blue team operations and real-world security workflows.
-
----
-
-## 🔐 What I Do
-- Practice **SOC fundamentals**: alert triage, log analysis, and incident investigation  
-- Perform **static malware analysis** and build ML-based detection systems  
-- Conduct **vulnerability assessment and reconnaissance** using industry tools  
-- Analyze **network traffic** to identify suspicious and malicious activity  
+🔐 **Aspiring SOC Analyst (L1)** | Cybersecurity Student  
+Focused on security monitoring, malware analysis, and blue team fundamentals through hands-on labs, internships, and projects.
 
 ---
 
-## 🧪 Projects
-- **Malware File Classification using Machine Learning**  
-  Static analysis of executable files using PE headers, entropy, and API imports to classify malware vs benign samples. Built to simulate SOC-style detection workflows.
-
-- **SOC Analyst Labs (LetsDefend / CTFs)**  
-  Hands-on experience investigating alerts, analyzing logs, and understanding attacker behavior in simulated SOC environments.
+## 🛡️ What I Work On
+- SOC fundamentals: **alert triage, log analysis, incident investigation**
+- **Static malware analysis** and ML-based detection projects
+- Vulnerability assessment & **network traffic analysis**
+- Security tooling and defensive techniques
 
 ---
 
-## 🛠️ Skills & Tools
-- **Security Tools:** Nmap, Wireshark, Burp Suite, Metasploit, Nessus, VirusTotal  
-- **SIEM & Logs:** Log Analysis Fundamentals, Windows Event Logs, Linux Logs  
-- **Operating Systems:** Linux (Ubuntu, Kali), Windows  
+## 🧪 Key Projects
+- **Malware File Classification (ML)**  
+  Built a static malware detection system using PE headers, entropy, and API imports to simulate SOC-style detection workflows.
+
+- **SOC Analyst Labs & CTFs**  
+  Investigated alerts, analyzed logs, and studied attacker behavior in simulated SOC environments.
+
+---
+
+## 🛠️ Tools & Skills
+- **Tools:** Nmap, Wireshark, Burp Suite, Metasploit, Nessus, VirusTotal  
+- **Logs & SIEM:** Windows Event Logs, Linux Logs (Basics)  
+- **OS:** Linux (Kali, Ubuntu), Windows  
 - **Scripting:** Python, Bash, PowerShell (Basic)  
-- **Frameworks:** MITRE ATT&CK (Basic), NIST CSF (Fundamentals)
+- **Frameworks:** MITRE ATT&CK, NIST CSF (Fundamentals)
 
 ---
 
-## 🎓 Certifications & Training
-- LetsDefend – SOC Analyst (L1)  
-- Hack The Box – All Blue CTF  
-- Cisco Networking Academy – Introduction to Cybersecurity  
+## 🎯 Current Focus
+- Improving **SIEM & alert investigation** skills  
+- Deepening **malware analysis** knowledge  
+- Preparing for **SOC Analyst (L1)** roles
 
 ---
 
-## 📌 Currently Focused On
-- Strengthening **SIEM and alert investigation skills**  
-- Improving **malware analysis and detection techniques**  
-- Preparing for **entry-level SOC Analyst roles**
-
----
-
-## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/chudaraj-kushwaha-39b189266  
-- **Portfolio:** https://www.chudaraj.com.np  
+## 📫 Connect
+- 🔗 LinkedIn: https://www.linkedin.com/in/chudaraj-kushwaha-39b189266  
+- 🌐 Portfolio: https://www.chudaraj.com.np  
 
